@@ -12,14 +12,14 @@ from urllib.parse import quote
 import subprocess
 import requests
 
-BASE_OWNER = "googlefonts"
-BASE_REPONAME = "googlefonts-project-template"
-DUMMY_URL = "https://yourname.github.io/your-font-repository-name"
+BASE_OWNER = "hydorus-neue-fonts"
+BASE_REPONAME = "flaviuschromacitrin-new"
+DUMMY_URL = "https://flaviuschromacitrin-new/hydorus-neue-fonts"
 LATEST_OFL = "https://raw.githubusercontent.com/googlefonts/googlefonts-project-template/main/OFL.txt"
 
 
 def repo_url(owner, name):
-    return f"https://github.com/{owner}/{name}"
+    return f"https://github.com/flaviuschromacitrin-new/hydorus-neue-fonts"
 
 
 def web_url(owner, name):
