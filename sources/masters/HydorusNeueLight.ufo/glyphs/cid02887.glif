@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cid02887" format="2">
+  <advance width="1000"/>
+  <unicode hex="2F24"/>
+  <unicode hex="5927"/>
+  <outline>
+    <contour>
+      <point x="960" y="481" type="line"/>
+      <point x="960" y="638" type="line"/>
+      <point x="584" y="638" type="line"/>
+      <point x="584" y="845" type="line"/>
+      <point x="410" y="845" type="line"/>
+      <point x="410" y="638" type="line"/>
+      <point x="40" y="638" type="line"/>
+      <point x="40" y="481" type="line"/>
+      <point x="400" y="481" type="line"/>
+      <point x="371" y="293"/>
+      <point x="230" y="130"/>
+      <point x="24" y="49" type="curve"/>
+      <point x="119" y="-92" type="line"/>
+      <point x="327" y="-3"/>
+      <point x="457" y="137"/>
+      <point x="513" y="330" type="curve"/>
+      <point x="579" y="153"/>
+      <point x="716" y="2"/>
+      <point x="890" y="-85" type="curve"/>
+      <point x="979" y="61" type="line"/>
+      <point x="796" y="154"/>
+      <point x="648" y="321"/>
+      <point x="608" y="481" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>9d1c6102</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
