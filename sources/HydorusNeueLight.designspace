@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="300" maximum="800" default="300">
+      <labels>
+        <label uservalue="300" name="Light"/>
+        <label uservalue="436.2" name="Regular" linkeduservalue="1"/>
+        <label uservalue="523.85" name="Medium"/>
+        <label uservalue="611.5" name="Semibold"/>
+        <label uservalue="666.69" name="Bold" linkeduservalue="1"/>
+        <label uservalue="800" name="Extrabold"/>
+      </labels>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="masters/HydorusNeueLight-hnb.ufo" name="hnb" familyname="Hydorus Neue Light" stylename="Black">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="masters/HydorusNeueLight-hnl.ufo" name="hnl" familyname="Hydorus Neue Light" stylename="Light">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Light" familyname="Hydorus Neue Light" stylename="Light" filename="instances/HydorusNeueLight-Light.ufo">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="ExtraBold" familyname="Hydorus Neue Light" stylename="ExtraBold" filename="instances/HydorusNeueLight-ExtraBold.ufo">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance name="Regular" familyname="Hydorus Neue Light" stylename="Regular" filename="instances/HydorusNeueLight-Regular.ufo">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="SemiLight" familyname="Hydorus Neue Light" stylename="SemiLight" filename="instances/HydorusNeueLight-SemiLight.ufo">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="DemiBold" familyname="Hydorus Neue Light" stylename="DemiBold" filename="instances/HydorusNeueLight-DemiBold.ufo">
+      <location>
+        <dimension name="weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance name="Thin" familyname="Hydorus Neue Light" stylename="Thin" filename="instances/HydorusNeueLight-Thin.ufo">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Black" familyname="Hydorus Neue Light" stylename="Black" filename="instances/HydorusNeueLight-Black.ufo">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>fontra.projectGlyphSets</key>
+      <array>
+        <dict>
+          <key>codePointColumn</key>
+          <string>Unicode</string>
+          <key>dataFormat</key>
+          <string>tsv/csv</string>
+          <key>glyphNameColumn</key>
+          <string>Glyph name</string>
+          <key>hasHeader</key>
+          <true/>
+          <key>name</key>
+          <string>Adobe Latin 3</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/adobe-type-tools/adobe-latin-charsets/adobe-latin-3.txt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</designspace>
