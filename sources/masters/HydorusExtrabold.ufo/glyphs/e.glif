@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="2">
+  <advance width="710"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="647" y="229" type="line"/>
+      <point x="647" y="280" type="line" smooth="yes"/>
+      <point x="647" y="462"/>
+      <point x="529" y="586"/>
+      <point x="356" y="586" type="curve" smooth="yes"/>
+      <point x="171" y="586"/>
+      <point x="41" y="454"/>
+      <point x="41" y="265" type="curve" smooth="yes"/>
+      <point x="41" y="78"/>
+      <point x="168" y="-46"/>
+      <point x="361" y="-46" type="curve" smooth="yes"/>
+      <point x="486" y="-46"/>
+      <point x="578" y="-11"/>
+      <point x="654" y="65" type="curve"/>
+      <point x="560" y="176" type="line"/>
+      <point x="516" y="125"/>
+      <point x="453" y="98"/>
+      <point x="381" y="98" type="curve" smooth="yes"/>
+      <point x="294" y="98"/>
+      <point x="229" y="152"/>
+      <point x="222" y="229" type="curve"/>
+    </contour>
+    <contour>
+      <point x="225" y="351" type="line"/>
+      <point x="236" y="413"/>
+      <point x="287" y="457"/>
+      <point x="348" y="457" type="curve" smooth="yes"/>
+      <point x="415" y="457"/>
+      <point x="460" y="417"/>
+      <point x="465" y="351" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

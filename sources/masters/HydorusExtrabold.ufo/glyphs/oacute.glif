@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute" format="2">
+  <advance width="720"/>
+  <unicode hex="00F3"/>
+  <outline>
+    <component base="o"/>
+    <component base="acute" xOffset="106"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>d283eec9</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

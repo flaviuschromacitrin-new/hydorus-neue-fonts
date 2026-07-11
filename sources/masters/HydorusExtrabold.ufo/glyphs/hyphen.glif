@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+  <advance width="480"/>
+  <unicode hex="002D"/>
+  <unicode hex="2011"/>
+  <outline>
+    <contour>
+      <point x="73" y="420" type="line"/>
+      <point x="73" y="280" type="line"/>
+      <point x="407" y="280" type="line"/>
+      <point x="407" y="420" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

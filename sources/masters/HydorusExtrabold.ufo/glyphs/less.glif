@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+  <advance width="840"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="760" y="702" type="line"/>
+      <point x="51" y="350" type="line"/>
+      <point x="760" y="-2" type="line"/>
+      <point x="760" y="111" type="line"/>
+      <point x="269" y="350" type="line"/>
+      <point x="760" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

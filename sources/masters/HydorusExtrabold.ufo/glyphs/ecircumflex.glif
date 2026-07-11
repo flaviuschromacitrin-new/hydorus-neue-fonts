@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflex" format="2">
+  <advance width="710"/>
+  <unicode hex="00EA"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflex" xOffset="96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>d283eec9</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

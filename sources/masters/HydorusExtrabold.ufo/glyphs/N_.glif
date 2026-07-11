@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+  <advance width="880"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="90" y="785" type="line"/>
+      <point x="90" y="-25" type="line"/>
+      <point x="268" y="-25" type="line"/>
+      <point x="255" y="592" type="line"/>
+      <point x="260" y="592" type="line"/>
+      <point x="599" y="-25" type="line"/>
+      <point x="790" y="-25" type="line"/>
+      <point x="790" y="785" type="line"/>
+      <point x="612" y="785" type="line"/>
+      <point x="621" y="233" type="line"/>
+      <point x="616" y="233" type="line"/>
+      <point x="327" y="785" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

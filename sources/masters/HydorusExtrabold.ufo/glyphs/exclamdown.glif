@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="420"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="139" y="512" type="line"/>
+      <point x="106" y="-25" type="line"/>
+      <point x="314" y="-25" type="line"/>
+      <point x="281" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="785" type="line"/>
+      <point x="115" y="595" type="line"/>
+      <point x="305" y="595" type="line"/>
+      <point x="305" y="785" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

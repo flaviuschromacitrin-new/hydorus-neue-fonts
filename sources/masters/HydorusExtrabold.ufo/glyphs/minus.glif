@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="2">
+  <advance width="1000"/>
+  <unicode hex="2212"/>
+  <unicode hex="FF0D"/>
+  <outline>
+    <contour>
+      <point x="160" y="433" type="line"/>
+      <point x="160" y="327" type="line"/>
+      <point x="840" y="327" type="line"/>
+      <point x="840" y="433" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

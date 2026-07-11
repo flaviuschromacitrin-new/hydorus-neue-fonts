@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="2">
+  <advance width="820"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="411" y="790" type="line"/>
+      <point x="56" y="292" type="line"/>
+      <point x="56" y="145" type="line"/>
+      <point x="452" y="145" type="line"/>
+      <point x="452" y="-25" type="line"/>
+      <point x="627" y="-25" type="line"/>
+      <point x="627" y="145" type="line"/>
+      <point x="756" y="145" type="line"/>
+      <point x="756" y="291" type="line"/>
+      <point x="627" y="291" type="line"/>
+      <point x="627" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="291" type="line"/>
+      <point x="258" y="291" type="line"/>
+      <point x="365" y="451" type="line" smooth="yes"/>
+      <point x="392" y="491"/>
+      <point x="434" y="571"/>
+      <point x="459" y="631" type="curve"/>
+      <point x="462" y="631" type="line"/>
+      <point x="457" y="583"/>
+      <point x="452" y="479"/>
+      <point x="452" y="437" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

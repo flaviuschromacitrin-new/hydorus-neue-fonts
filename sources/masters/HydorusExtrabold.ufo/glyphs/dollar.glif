@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="860"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="388" y="855" type="line"/>
+      <point x="388" y="767" type="line"/>
+      <point x="212" y="754"/>
+      <point x="116" y="675"/>
+      <point x="116" y="543" type="curve" smooth="yes"/>
+      <point x="116" y="440"/>
+      <point x="177" y="386"/>
+      <point x="344" y="340" type="curve" smooth="yes"/>
+      <point x="388" y="328" type="line"/>
+      <point x="388" y="132" type="line"/>
+      <point x="301" y="142"/>
+      <point x="216" y="176"/>
+      <point x="164" y="222" type="curve"/>
+      <point x="82" y="109" type="line"/>
+      <point x="157" y="39"/>
+      <point x="269" y="-3"/>
+      <point x="388" y="-8" type="curve"/>
+      <point x="388" y="-95" type="line"/>
+      <point x="481" y="-95" type="line"/>
+      <point x="481" y="-7" type="line"/>
+      <point x="612.5" y="-1.8092"/>
+      <point x="765" y="57.5325"/>
+      <point x="765" y="214" type="curve" smooth="yes"/>
+      <point x="765" y="344.466"/>
+      <point x="651.469" y="403.275"/>
+      <point x="540" y="433" type="curve" smooth="yes"/>
+      <point x="481" y="449" type="line"/>
+      <point x="481" y="630" type="line"/>
+      <point x="547" y="620"/>
+      <point x="605" y="599"/>
+      <point x="646" y="569" type="curve"/>
+      <point x="724" y="683" type="line"/>
+      <point x="657" y="730"/>
+      <point x="571" y="759"/>
+      <point x="481" y="767" type="curve"/>
+      <point x="481" y="855" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="303" type="line"/>
+      <point x="564" y="277"/>
+      <point x="589" y="255"/>
+      <point x="589" y="210" type="curve" smooth="yes"/>
+      <point x="589" y="149.89"/>
+      <point x="528.421" y="133.589"/>
+      <point x="481" y="129" type="curve"/>
+    </contour>
+    <contour>
+      <point x="388" y="474" type="line"/>
+      <point x="302" y="503"/>
+      <point x="285" y="516"/>
+      <point x="285" y="555" type="curve" smooth="yes"/>
+      <point x="285" y="613.79"/>
+      <point x="341.145" y="628.645"/>
+      <point x="388" y="634" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="500"/>
+  <unicode hex="00AF"/>
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="430" y="664" type="line"/>
+      <point x="430" y="775" type="line"/>
+      <point x="70" y="775" type="line"/>
+      <point x="70" y="664" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+  <advance width="790"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="75" y="59" type="line"/>
+      <point x="197" y="-9" type="line"/>
+      <point x="417" y="270" type="line"/>
+      <point x="197" y="549" type="line"/>
+      <point x="75" y="481" type="line"/>
+      <point x="215" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="59" type="line"/>
+      <point x="498" y="-9" type="line"/>
+      <point x="726" y="270" type="line"/>
+      <point x="498" y="549" type="line"/>
+      <point x="376" y="481" type="line"/>
+      <point x="522" y="270" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

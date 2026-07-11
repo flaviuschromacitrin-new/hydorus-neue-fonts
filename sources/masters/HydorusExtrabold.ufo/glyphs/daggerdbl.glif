@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="760"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="335" y="294" type="curve" smooth="yes"/>
+      <point x="336" y="360"/>
+      <point x="321.12516996290316" y="395.1404762824597"/>
+      <point x="271" y="439" type="curve"/>
+      <point x="307" y="466"/>
+      <point x="327" y="498"/>
+      <point x="335" y="541" type="curve"/>
+      <point x="282" y="508"/>
+      <point x="234" y="492"/>
+      <point x="188" y="492" type="curve" smooth="yes"/>
+      <point x="126" y="492"/>
+      <point x="93" y="519"/>
+      <point x="93" y="571" type="curve" smooth="yes"/>
+      <point x="93" y="623"/>
+      <point x="127" y="652"/>
+      <point x="188" y="652" type="curve" smooth="yes"/>
+      <point x="230" y="652"/>
+      <point x="277" y="634"/>
+      <point x="353" y="587" type="curve"/>
+      <point x="307" y="641"/>
+      <point x="284" y="688"/>
+      <point x="284" y="727" type="curve" smooth="yes"/>
+      <point x="284" y="774"/>
+      <point x="323" y="806"/>
+      <point x="380" y="806" type="curve" smooth="yes"/>
+      <point x="437" y="806"/>
+      <point x="476" y="774"/>
+      <point x="476" y="727" type="curve" smooth="yes"/>
+      <point x="476" y="687"/>
+      <point x="455" y="644"/>
+      <point x="407" y="587" type="curve"/>
+      <point x="481" y="633"/>
+      <point x="529" y="652"/>
+      <point x="572" y="652" type="curve" smooth="yes"/>
+      <point x="633" y="652"/>
+      <point x="667" y="623"/>
+      <point x="667" y="571" type="curve" smooth="yes"/>
+      <point x="667" y="519"/>
+      <point x="634" y="492"/>
+      <point x="572" y="492" type="curve" smooth="yes"/>
+      <point x="526" y="492"/>
+      <point x="477" y="508"/>
+      <point x="425" y="541" type="curve"/>
+      <point x="433" y="498"/>
+      <point x="453" y="466"/>
+      <point x="489" y="439" type="curve"/>
+      <point x="441" y="398"/>
+      <point x="424" y="366"/>
+      <point x="425" y="294" type="curve" smooth="yes"/>
+      <point x="425" y="232"/>
+      <point x="441" y="200"/>
+      <point x="489" y="159" type="curve"/>
+      <point x="453" y="132"/>
+      <point x="433" y="100"/>
+      <point x="425" y="57" type="curve"/>
+      <point x="478" y="90"/>
+      <point x="527" y="106"/>
+      <point x="572" y="106" type="curve" smooth="yes"/>
+      <point x="634" y="106"/>
+      <point x="667" y="79"/>
+      <point x="667" y="27" type="curve" smooth="yes"/>
+      <point x="667" y="-25"/>
+      <point x="633" y="-54"/>
+      <point x="572" y="-54" type="curve" smooth="yes"/>
+      <point x="529" y="-54"/>
+      <point x="480" y="-35"/>
+      <point x="407" y="11" type="curve"/>
+      <point x="454" y="-45"/>
+      <point x="476" y="-90"/>
+      <point x="476" y="-130" type="curve" smooth="yes"/>
+      <point x="476" y="-176"/>
+      <point x="437" y="-208"/>
+      <point x="380" y="-208" type="curve" smooth="yes"/>
+      <point x="323" y="-208"/>
+      <point x="284" y="-176"/>
+      <point x="284" y="-130" type="curve" smooth="yes"/>
+      <point x="284" y="-89"/>
+      <point x="305" y="-45"/>
+      <point x="353" y="11" type="curve"/>
+      <point x="279" y="-35"/>
+      <point x="231" y="-54"/>
+      <point x="188" y="-54" type="curve" smooth="yes"/>
+      <point x="127" y="-54"/>
+      <point x="93" y="-25"/>
+      <point x="93" y="27" type="curve" smooth="yes"/>
+      <point x="93" y="79"/>
+      <point x="126" y="106"/>
+      <point x="188" y="106" type="curve" smooth="yes"/>
+      <point x="234" y="106"/>
+      <point x="281" y="90"/>
+      <point x="335" y="57" type="curve"/>
+      <point x="327" y="101"/>
+      <point x="308" y="131"/>
+      <point x="271" y="159" type="curve"/>
+      <point x="319" y="200"/>
+      <point x="335" y="232"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>d283eec9</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
