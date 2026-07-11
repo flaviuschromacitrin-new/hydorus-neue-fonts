@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni203E" format="2">
+  <advance width="500"/>
+  <unicode hex="203E"/>
+  <outline>
+    <contour>
+      <point x="500" y="880" type="line"/>
+      <point x="0" y="880" type="line"/>
+      <point x="0" y="830" type="line"/>
+      <point x="500" y="830" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

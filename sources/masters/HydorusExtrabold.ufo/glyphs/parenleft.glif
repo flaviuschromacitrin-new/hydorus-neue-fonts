@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+  <advance width="520"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="462" y="-250" type="line"/>
+      <point x="316" y="-61"/>
+      <point x="255" y="99"/>
+      <point x="255" y="290" type="curve" smooth="yes"/>
+      <point x="255" y="480"/>
+      <point x="316" y="641"/>
+      <point x="462" y="830" type="curve"/>
+      <point x="337" y="830" type="line"/>
+      <point x="204" y="717"/>
+      <point x="110" y="494"/>
+      <point x="110" y="290" type="curve" smooth="yes"/>
+      <point x="110" y="86"/>
+      <point x="203" y="-135"/>
+      <point x="337" y="-250" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

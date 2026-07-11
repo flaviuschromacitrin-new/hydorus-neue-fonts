@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="520"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="406" y="830" type="line"/>
+      <point x="29" y="-226" type="line"/>
+      <point x="115" y="-250" type="line"/>
+      <point x="492" y="806" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

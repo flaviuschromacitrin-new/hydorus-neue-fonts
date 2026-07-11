@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="800"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="290" y="677" type="line"/>
+      <point x="290" y="785" type="line"/>
+      <point x="107" y="785" type="line"/>
+      <point x="107" y="-25" type="line"/>
+      <point x="291" y="-25" type="line"/>
+      <point x="291" y="137" type="line"/>
+      <point x="405" y="137" type="line" smooth="yes"/>
+      <point x="594.8751332695365" y="137"/>
+      <point x="756" y="194.02040964992406"/>
+      <point x="756" y="417" type="curve" smooth="yes"/>
+      <point x="756" y="617.4670324370411"/>
+      <point x="577.0739494536937" y="677"/>
+      <point x="411" y="677" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="290" y="282" type="line"/>
+      <point x="290" y="528" type="line"/>
+      <point x="402" y="528" type="line" smooth="yes"/>
+      <point x="480.5717807192325" y="528"/>
+      <point x="559" y="505.94593486930967"/>
+      <point x="559" y="411" type="curve" smooth="yes"/>
+      <point x="559" y="298.9684798877971"/>
+      <point x="485.8031213242964" y="282"/>
+      <point x="390" y="282" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>d283eec9</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

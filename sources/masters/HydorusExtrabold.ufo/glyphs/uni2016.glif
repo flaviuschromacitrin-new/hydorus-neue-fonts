@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2016" format="2">
+  <advance width="1000"/>
+  <unicode hex="2016"/>
+  <unicode hex="2225"/>
+  <outline>
+    <contour>
+      <point x="361" y="880" type="line"/>
+      <point x="361" y="-120" type="line"/>
+      <point x="445" y="-120" type="line"/>
+      <point x="445" y="880" type="line"/>
+    </contour>
+    <contour>
+      <point x="555" y="880" type="line"/>
+      <point x="555" y="-120" type="line"/>
+      <point x="639" y="-120" type="line"/>
+      <point x="639" y="880" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

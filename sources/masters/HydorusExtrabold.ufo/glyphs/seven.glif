@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="820"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="95" y="785" type="line"/>
+      <point x="95" y="633" type="line"/>
+      <point x="550" y="633" type="line"/>
+      <point x="447" y="424"/>
+      <point x="351" y="169"/>
+      <point x="300" y="-25" type="curve"/>
+      <point x="481" y="-25" type="line"/>
+      <point x="541" y="215"/>
+      <point x="639" y="461"/>
+      <point x="753" y="661" type="curve"/>
+      <point x="753" y="785" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>default</key>
+        <string>d283eec9</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

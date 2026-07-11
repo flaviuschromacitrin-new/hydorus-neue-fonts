@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="2">
+  <advance width="760"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="80" y="565" type="line"/>
+      <point x="80" y="206" type="line" smooth="yes"/>
+      <point x="80" y="48"/>
+      <point x="155" y="-36"/>
+      <point x="295" y="-36" type="curve" smooth="yes"/>
+      <point x="378" y="-36"/>
+      <point x="448" y="7"/>
+      <point x="494" y="89" type="curve"/>
+      <point x="494" y="-25" type="line"/>
+      <point x="676" y="-25" type="line"/>
+      <point x="676" y="565" type="line"/>
+      <point x="493" y="565" type="line"/>
+      <point x="493" y="255" type="line"/>
+      <point x="476" y="170"/>
+      <point x="420" y="112"/>
+      <point x="355" y="112" type="curve" smooth="yes"/>
+      <point x="296" y="112"/>
+      <point x="263" y="158"/>
+      <point x="263" y="237" type="curve" smooth="yes"/>
+      <point x="263" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
