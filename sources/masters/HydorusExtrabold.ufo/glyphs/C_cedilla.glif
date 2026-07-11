@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="2">
+  <advance width="840"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedilla" xOffset="204"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

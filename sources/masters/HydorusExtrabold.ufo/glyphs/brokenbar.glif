@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+  <advance width="290"/>
+  <unicode hex="00A6"/>
+  <unicode hex="01C0"/>
+  <outline>
+    <contour>
+      <point x="103" y="830" type="line"/>
+      <point x="103" y="370" type="line"/>
+      <point x="187" y="370" type="line"/>
+      <point x="187" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="210" type="line"/>
+      <point x="103" y="-250" type="line"/>
+      <point x="187" y="-250" type="line"/>
+      <point x="187" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>xyz.fontra.layer-names</key>
+  <dict>
+    <key>default</key>
+    <string>d283eec9</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
